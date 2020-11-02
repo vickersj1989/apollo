@@ -17,7 +17,7 @@ module.exports = {
           null: [
             'index',
             'getting-started',
-            '[Explorer](https://studio.apollographql.com/explorer)',
+            'explorer',
           ],
           'Registering your Schema': [
             'schema/schema-reporting',
